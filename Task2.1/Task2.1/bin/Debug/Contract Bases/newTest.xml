@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Contract>
+    <ID>0</ID>
+    <Client>0</Client>
+    <PhoneNumber>03333333333</PhoneNumber>
+    <Email>0@h.ru</Email>
+  </Contract>
+  <Contract>
+    <ID>1</ID>
+    <Client>1</Client>
+    <PhoneNumber>13333333333</PhoneNumber>
+    <Email>1@h.ru</Email>
+  </Contract>
+  <Contract>
+    <ID>3</ID>
+    <Client>3</Client>
+    <PhoneNumber>33333333333</PhoneNumber>
+    <Email>3@h.ru</Email>
+  </Contract>
+  <Contract>
+    <ID>4</ID>
+    <Client>4</Client>
+    <PhoneNumber>43333333333</PhoneNumber>
+    <Email>4@h.ru</Email>
+  </Contract>
+  <Contract>
+    <ID>22</ID>
+    <Client>22</Client>
+    <PhoneNumber>22333333333</PhoneNumber>
+    <Email>22@h.ru</Email>
+  </Contract>
+  <Contract>
+    <ID>1000</ID>
+    <Client>1000</Client>
+    <PhoneNumber>10003333333</PhoneNumber>
+    <Email>1000@h.ru</Email>
+  </Contract>
+</NewDataSet>
